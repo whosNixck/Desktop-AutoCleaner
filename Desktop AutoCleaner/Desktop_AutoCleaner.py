@@ -10,7 +10,7 @@ FILE_TYPES = {
     "Audio": [".mp3", ".wav"],
     "Tabelle": [".xlsm", ".xlsx", ".csv"],
     "Praesentation": [".pptx", ".odp"],
-    "Zip-Datein": [".zip"],
+    "Komprimierte-Datein": [".zip", ".7z"],
     "Others": []
 }
 
