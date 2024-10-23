@@ -5,7 +5,7 @@ from tkinter import filedialog, messagebox
 
 FILE_TYPES = {
     "Bilder": [".jpeg", ".jpg", ".png", ".gif"],
-    "Dokumente": [".pdf", ".docx", ".txt"],
+    "Dokumente": [".pdf", ".docx", ".txt", ".docm"],
     "Videos": [".mp4", ".mov"],
     "Audio": [".mp3", ".wav"],
     "Tabelle": [".xlsm", ".xlsx", ".csv"],
